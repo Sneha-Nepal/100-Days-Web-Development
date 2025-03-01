@@ -1,0 +1,6 @@
+In this section, I was introduced to JavaScript. I used Chrome Developer Tools to write basic JS code.
+
+I learned how to name variables systematically and perform string concatenation. 
+Additionally, I practiced coding functions on this platform- https://stanford.edu/~cpiech/karel/ide.html
+
+I also explored basic arithmetic operations, including modules, incrementing, and decrementing.
